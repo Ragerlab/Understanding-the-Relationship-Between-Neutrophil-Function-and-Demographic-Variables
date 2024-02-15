@@ -4,4 +4,4 @@ This repository contains script associated with the unpublished manuscript title
 
 Script author: Elise Hickman, PhD (ehickman@email.unc.edu)
 
-This script was developed to 1) determine whether there are significant differences in phagocytic function and oxidative burst bioenergetic parameters between neutrophils isolated from male and female adult subjects; and 2) determine whether phagocytic function and oxidative burst bioenergetic parameters are correlated in human neutrophils. 
+This script was developed to 1) determine whether there are significant differences in phagocytic function and oxidative burst bioenergetic parameters between neutrophils isolated from male and female adult subjects; and 2) determine whether phagocytic function and oxidative burst bioenergetic parameters are correlated in human neutrophils. These goals were answered using t tests, Wilcoxon rank sum tests, and Spearman's correlation tests. These combined analyses correspond to Table 1 in the manuscript. 
